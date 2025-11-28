@@ -5,7 +5,13 @@ title: Начало работы в компании
 
 
 
+## Сайт компании: [**absolutecreators.media**](mailto:admin@absolutecreators.media)
+
+
+
 Почтовый сервис: <https://dsm.absolutecreator.synology.me/?launchApp=SYNO.SDS.MailClient.Application>
+
+
 
 Для клиентов:
 
@@ -15,9 +21,13 @@ title: Начало работы в компании
 
 [idea@absolutecreators.media](mailto:idea@absolutecreators.media)
 
+
+
 Тех почта:
 
 [admin@absolutecreators.media](mailto:admin@absolutecreators.media)
+
+
 
 Креды все прислал в лс. От тебя нужна гугл почта для всех остальных сервисов.
 
