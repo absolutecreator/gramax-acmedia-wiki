@@ -5,7 +5,7 @@ title: Начало работы в компании
 
 
 
-## Сайт компании: [**absolutecreators.media**](mailto:admin@absolutecreators.media)
+## Сайт компании: [**absolutecreators.media**](https://absolutecreators.media)
 
 
 
@@ -30,5 +30,3 @@ title: Начало работы в компании
 
 
 Креды все прислал в лс. От тебя нужна гугл почта для всех остальных сервисов.
-
-
